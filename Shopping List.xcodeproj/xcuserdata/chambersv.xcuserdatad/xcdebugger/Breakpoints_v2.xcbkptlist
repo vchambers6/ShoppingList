@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8886D708-1440-44EE-960A-C0C497D13BF7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "0C4A4CA6-3D85-4EAD-92FE-8539F45892B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            condition = "-[NSObject(NSObject) doesNotRecognizeSelector:]"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
